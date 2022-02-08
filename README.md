@@ -1,4 +1,4 @@
-**# Predicting Medical Appointment Status**
+# ** Predicting Medical Appointment Status**
 
 Bay clinic is a medical centre in Houston that operates with a unique mission of blending research and education with clinical and hospital care. 
 The medical center has a huge head force of 25,000 employees, and as a result of the combined effort of those employees, the medical center has been able to handle approximately 3 million visits so far. 
